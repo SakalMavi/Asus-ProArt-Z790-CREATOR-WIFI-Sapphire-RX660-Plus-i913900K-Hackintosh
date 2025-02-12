@@ -19,7 +19,7 @@
 | Component    | Variant                   | Link                                                                                                                                         |
 |:------------:|:-------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
 | Mainboard    | ProArt Z790-CREATOR WIFI  | [www.asus.com](https://www.asus.com/motherboards-components/motherboards/proart/proart-z790-creator-wifi/)                                   |
-| Processor    | Intel Core i9 13900K      | [ark.intel.com](https://ark.intel.com/content/www/us/en/ark/products/236773/intel-core-i9-processor-14900k-36m-cache-up-to-6-00-ghz.html)    |
+| Processor    | Intel Core i9 13900K      | [ark.intel.com](https://www.intel.com/content/www/us/en/products/sku/236787/intel-core-i9-processor-14900kf-36m-cache-up-to-6-00-ghz/specifications.html?wapkw=Intel%C2%AE%20Core%E2%84%A2%20i9%20processor%2013900F)    |
 | DDR5 RAM     | Corsair 128GB             | [www.corsair.com](https://www.corsair.com)                                                                                                   |
 | NVMe SSD     | Aigo P7000Z 2TB           | [www.aigo.com](http://www.aigo.com/memory/udisk1/)                                                                                           |
 | Graphics     | AMD Radeon RX6950 XT      | [www.amd.com](https://www.amd.com/)                                                                                                          |
