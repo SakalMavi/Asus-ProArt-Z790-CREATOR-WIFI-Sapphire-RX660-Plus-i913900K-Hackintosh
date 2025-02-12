@@ -19,10 +19,10 @@
 | Component    | Variant                   | Link                                                                                                                                         |
 |:------------:|:-------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
 | Mainboard    | ProArt Z790-CREATOR WIFI  | [www.asus.com](https://www.asus.com/motherboards-components/motherboards/proart/proart-z790-creator-wifi/)                                   |
-| Processor    | Intel Core i9 13900K      | [ark.intel.com](https://ark.intel.com/content/www/us/en/ark/products/230497/intel-core-i9-processor-13900kf-36m-cache-up-to-6-00-ghz.html)    |
-| DDR5 RAM     | Corsair 128GB             | [www.corsair.com](https://www.corsair.com)                                                                                                   |
-| NVMe SSD     | Aigo P7000Z 2TB           | [www.aigo.com](http://www.aigo.com/memory/udisk1/)                                                                                           |
-| Graphics     | AMD Radeon RX6950 XT      | [www.amd.com](https://www.amd.com/)                                                                                                          |
+| Processor    | Intel Core i9 13900KF     | [ark.intel.com](https://ark.intel.com/content/www/us/en/ark/products/230497/intel-core-i9-processor-13900kf-36m-cache-up-to-6-00-ghz.html)    |
+| DDR5 RAM     | Corsair 32 GB             | [www.corsair.com](https://www.corsair.com)                                                                                                   |
+| NVMe SSD     | Corsair MP600 PRO XT 2TB  | [www.aigo.com](http://www.aigo.com/memory/udisk1/)                                                                                           |
+| Graphics     | AMD Radeon RX6600 Plus    | [www.amd.com](https://www.amd.com/)                                                                                                          |
 | WiFi / BT    | AX211 / BCM94360CD        | [www.intel.com](https://www.intel.com/content/www/us/en/products/sku/130293/intel-wifi-6-ax201-gig/specifications.html)                      |
 | Lan          | Marvell AQtion 10G        | [Marvell]()                                                                                                                                 |    
 | Lan          | Intel I226-V 2.5G         | [Intel]()                                                                                                                                  |
