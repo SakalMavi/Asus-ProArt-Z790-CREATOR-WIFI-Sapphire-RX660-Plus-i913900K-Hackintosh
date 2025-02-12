@@ -8,7 +8,7 @@
 
 ### Information 
 
-- macOS: [Sonoma](https://www.apple.com/macos/sonoma/)
+- macOS: [Sequoia](https://www.apple.com/macos/sonoma/)
 - bootloader: [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases/latest)
 
 ---
@@ -19,7 +19,7 @@
 | Component    | Variant                   | Link                                                                                                                                         |
 |:------------:|:-------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
 | Mainboard    | ProArt Z790-CREATOR WIFI  | [www.asus.com](https://www.asus.com/motherboards-components/motherboards/proart/proart-z790-creator-wifi/)                                   |
-| Processor    | Intel Core i9 14900K      | [ark.intel.com](https://ark.intel.com/content/www/us/en/ark/products/236773/intel-core-i9-processor-14900k-36m-cache-up-to-6-00-ghz.html)    |
+| Processor    | Intel Core i9 13900K      | [ark.intel.com](https://ark.intel.com/content/www/us/en/ark/products/236773/intel-core-i9-processor-14900k-36m-cache-up-to-6-00-ghz.html)    |
 | DDR5 RAM     | Corsair 128GB             | [www.corsair.com](https://www.corsair.com)                                                                                                   |
 | NVMe SSD     | Aigo P7000Z 2TB           | [www.aigo.com](http://www.aigo.com/memory/udisk1/)                                                                                           |
 | Graphics     | AMD Radeon RX6950 XT      | [www.amd.com](https://www.amd.com/)                                                                                                          |
