@@ -1,7 +1,7 @@
 # Asus ProArt Z790 CREATOR WIFI RX6600 i913900K
 
 
-![oc](docs/mainboard.png)
+![oc](mainboard.png)
 
 ---
 
